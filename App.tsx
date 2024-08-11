@@ -4,7 +4,7 @@ import { Movie } from "./src/app/Movie";
 export default function App() {
   return (
     <>
-      <StatusBar style="auto" />
+      <StatusBar style="light" />
       <Movie />
     </>
   );
